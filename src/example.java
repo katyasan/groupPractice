@@ -3,7 +3,9 @@ public class example {
         System.out.println("print word");
         if (true){
             System.out.println("print it");
-
+        }
+        else {
+            System.out.println("word");
         }
     }
 }

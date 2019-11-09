@@ -7,5 +7,8 @@ public class example {
         else {
             System.out.println("word");
         }
+        for(;;){
+            System.out.println("first");
+        }
     }
 }
